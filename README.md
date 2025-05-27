@@ -25,15 +25,7 @@ Gain practical exposure in phishing detection using real-world patterns like:
 ## 📂 Repo Structure
 ```
 📁 phishing-email-analysis-task/
+├── Interview Question-Answer
+    ├── Phishing_Interview_QA.pdf
 ├── README.md
 ├── phishing_report.md
-├── interview_questions.md
-└── screenshots/
-```
-
-## 📸 Screenshots
-- Add captures from browser/email client here showing headers and suspicious links.
-
-## ✅ Submission
-Submit the repo link using this form:
-👉 [Google Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
