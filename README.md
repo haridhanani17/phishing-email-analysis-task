@@ -1,21 +1,39 @@
 # 🛡️ Phishing Email Analysis
 
-This project is part of a cybersecurity internship. It involves analyzing a suspicious email to identify phishing characteristics.
+This project is part of a cybersecurity internship focused on identifying characteristics of phishing emails.
 
 ## 🎯 Objective
-Understand and identify traits of phishing emails through manual inspection and tools like email header analyzers.
+Gain practical exposure in phishing detection using real-world patterns like:
+- Email spoofing
+- Urgency-based social engineering
+- Header manipulation
 
 ## 🧰 Tools Used
-- Free phishing email samples (online)
-- Email header analyzer (e.g., MXToolbox)
-- Browser & text editor
+- Free phishing samples (collected manually or from GitHub repos)
+- Email header analysis tools:
+  - MXToolbox
+  - Google Header Analyzer
+  - Mailheader.org
+- Online URL analyzers: VirusTotal, URLScan.io
 
-## 🧪 Steps Taken
-1. Examined the sender's address and email headers.
-2. Checked for suspicious attachments/URLs.
-3. Noted grammar issues, urgency in language, and spoofed addresses.
+## 🧪 Process Overview
+1. Chose a real-looking phishing email
+2. Dissected header and body content
+3. Identified 5+ phishing traits (spoofed domain, mismatched links, threatening tone, grammar flaws, etc.)
+4. Compiled a formal report
 
-## 📂 Project Structure
-- `phishing_report.md`: Summary of phishing indicators found.
-- `interview_questions.md`: Answers to theoretical questions.
-- `screenshots/`: Proof of analysis, header tools, and email body.
+## 📂 Repo Structure
+```
+📁 phishing-email-analysis-task/
+├── README.md
+├── phishing_report.md
+├── interview_questions.md
+└── screenshots/
+```
+
+## 📸 Screenshots
+- Add captures from browser/email client here showing headers and suspicious links.
+
+## ✅ Submission
+Submit the repo link using this form:
+👉 [Google Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
