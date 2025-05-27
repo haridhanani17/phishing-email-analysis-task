@@ -19,6 +19,3 @@ Understand and identify traits of phishing emails through manual inspection and 
 - `phishing_report.md`: Summary of phishing indicators found.
 - `interview_questions.md`: Answers to theoretical questions.
 - `screenshots/`: Proof of analysis, header tools, and email body.
-
-## ✅ Submission
-[Submit your GitHub link here](https://forms.gle/8Gm83s53KbyXs3Ne9)
